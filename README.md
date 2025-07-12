@@ -1,1 +1,1 @@
-# Food_App
+Delete README.md to resolve conflict
